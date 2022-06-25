@@ -1,0 +1,5 @@
+project for training purposes
+
+git
+github
+python
